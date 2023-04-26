@@ -26,6 +26,10 @@ const Hero = () => {
               I develop software solutions, Apps <br className='sm:block hidden' />
               and web applications.
             </p>
+            <a href="#contact" className='mt-6'>
+              <button className='bg-[#EC9131] py-1 px-3 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'>
+                 "Let's Talk"
+              </button></a>
           </div>
         </div>
         
