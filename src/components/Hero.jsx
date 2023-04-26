@@ -33,7 +33,7 @@ const Hero = () => {
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
         className='xl:flex-1 xl:h-auto  md:h-[550px] h-[350px]'>
-          <img className="rounded-full w-[200px] h-[200px] xs:h-[300px] xs:w-[300px] mx-auto mt-20" src={isaac}/>
+          <img className="rounded-full w-[250px] h-[250px] xs:h-[300px] xs:w-[300px] mx-auto xs:mt-20 mt-14" src={isaac}/>
       </motion.div>
        
       <div className='absolute xs:bottom-20 bottom-16 w-full flex justify-center items-center'>
