@@ -3,7 +3,7 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import cyber from "./cyber.png";
 import mobile from "./mobile.png";
-import isaac from "./isaac.webp";
+import isaac from "./profile.jpg";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
